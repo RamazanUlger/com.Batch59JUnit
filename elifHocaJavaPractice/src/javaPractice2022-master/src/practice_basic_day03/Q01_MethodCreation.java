@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q01_MethodCreation01 {
+public class Q01_MethodCreation {
 
     /*
       Problem Tanımı :

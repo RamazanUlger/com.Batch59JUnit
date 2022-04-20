@@ -16,4 +16,27 @@ public class OgretmenBilgileri {
     String brans;
     String tel;
 
+
+
+    public static void main(String[] args) {
+        OgretmenBilgileri ogretmen =new OgretmenBilgileri();
+        ogretmen.isim1="ramazan";
+        System.out.println(ogretmen.isim1);
+        ogretmen.soyIsim="ulger";
+        System.out.println(ogretmen.soyIsim);
+        ogretmen.yas=35;
+        System.out.println(ogretmen.yas);
+        ogretmen.brans="Matematik";
+        System.out.println(ogretmen.brans);
+        ogretmen.tel="01632000454";
+        System.out.println(ogretmen.tel);
+
+
+
+
+
+    }
+
+
+
 }

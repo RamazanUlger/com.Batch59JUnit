@@ -1,6 +1,7 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q02_MergeCertainCharacters {
+public class q02Mergecertaincharacters {
     /*
      * Kulanicidan alinan bir Stringin ilk ve son harfini yine kulanicidan alinan sayi kadar
      * return eden metod yaziniz
@@ -34,5 +35,6 @@ public class Q02_MergeCertainCharacters {
         }
         return output;
     }
+
 
 }

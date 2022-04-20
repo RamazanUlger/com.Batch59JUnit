@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02506f15-6ca4-41d0-a97a-bdbc098ab27b" name="Changes" comment="" />
+    <list default="true" id="02506f15-6ca4-41d0-a97a-bdbc098ab27b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Av.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Avci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Balik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Kartal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../denemeAlistirmaOdevlPratik/src/odev/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/Calisan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/DaimiMusteriler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/IsVeren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/Islemler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/Muhasebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/Musteriler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/Ucretler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/berberDukkani/berbertask.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdvancedJavaPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedJavaPractice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HalukHocaJavaPraktice" beforeDir="false" afterPath="$PROJECT_DIR$/../HalukHocaJavaPraktice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/out/production/elifHocaJavaPractice/ObjectClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/out/production/elifHocaJavaPractice/OgretmenBilgileri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/src/C01_Obje/OgretmenBilgileri.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elifHocaJavaPractice/src/C01_Obje/OgretmenBilgileri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/interviewQuestions1/Q01_CountsOfCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/interviewQuestions1/Q02_MergeCertainCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/interviewQuestions1/q02Mergecertaincharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/practice_basic_day03/Q01_MethodCreation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/practice_basic_day03/Q01_MethodCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/practice_basic_day03/Q02_MethodCreation02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../elifHocaJavaPractice/src/javaPractice2022-master/src/practice_basic_day03/Q02_MethodCreation02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java2022WinterTr" beforeDir="false" afterPath="$PROJECT_DIR$/../java2022WinterTr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaPractice2022" beforeDir="false" afterPath="$PROJECT_DIR$/../javaPractice2022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="27Wz3uMlaXQCPOgM3CYaPaihXnf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,9 +64,66 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="34" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/berberDukkani" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ramaz\IdeaProjects\newRamazan\src\berberDukkani" />
+      <recent name="C:\Users\ramaz\IdeaProjects\newRamazan\src\new_Ramazan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Cerceve">
+    <configuration name="Cerceve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_Ramazan.Cerceve" />
+      <module name="neuRamazan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_Ramazan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_Ramazan.Test01" />
+      <module name="neuRamazan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_Ramazan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_Ramazan.Test05" />
+      <module name="neuRamazan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="new_Ramazan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cerceve" />
+        <item itemvalue="Application.Test05" />
+        <item itemvalue="Application.Test01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,5 +135,16 @@
       <updated>1649450434788</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,0 +1,27 @@
+             BERBER DUKKANI
+1-Isverenler listesi olusturulur
+ -Isveren gunluk kazancini muhasebbeye bildirmelidir
+2-Isciler listesi olusturulur
+ -Iscilerden bir gunde 20 musteri aldiktan sonra her sonraki musteri icin prim verilir(Beispiel: yaptigi islemin %30 kadar)
+ -Isciler yaptiklari her islem sonrasi icin yaptiklari islemin ucretini sisteme girmelidirler (Bir yazar kasa gibi)
+3-Muhasebe kismi olusturulur (is verenler, isciler class, (Dukkan giderleri Interface olmalidir) Extends )
+4-Dukkan giderleri olusturulur
+5-Gunluk, Aylik, Yillik, kazanc olusturlur
+6-Musteriye ucret listesi olusturulur
+ -Kesim ucreti (Sac kesim 13€, Sakal komple kesim 7, Modelli sakal 10€,Agda ile goz alti 
+  kulak tuyleri 5€ 'dur )
+ -aldiklari hizmete ek olarak  yikama "2€", masaj "5€", sac bakim "10€", cilt bakim "10€" vb ayri olarak ucretlendirilir
+ !!! ve aldiklari hizmet ve ek hizmetler ile isleminin ne kadar surecegi ve toplam odeyecegi ucret bildirilir
+ -Daimi musterilere aldiklari toplam hizmet uzerinden %15 indirim uygulanir
+ -Ailesi(Baba ve cocuklari icin, sonucta erkek berberiyiz :-)) toplam islem uzerinden %10 indirim uygulanir
+ 
+ -Cocuk saci kesimi 10€ (set() methodlu ile <=10 yas alti indirme tabidir.)
+
+
+7-Randevu sistemli calisir
+  --Musteri gelecegi gunu ve saati belirler 
+  --Random olarak bir tarih araligi verilir ve oradan sectirilir
+  --!!!Ayrica musteri hangi berbere islem yaptirtmak istiyorsa secebilir yada secim yapmak istemiyorsa en yakin tarih'deki 
+     bos olan berber icin randevu verilir.(Yani ozellikle bir berbere islem yaptirip yaprilmayacagi sorulur)
+
+ 

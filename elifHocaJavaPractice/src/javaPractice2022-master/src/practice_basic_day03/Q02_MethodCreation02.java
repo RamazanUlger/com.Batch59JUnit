@@ -9,7 +9,7 @@ public class Q02_MethodCreation02 {
 
     public static void main(String[] args) {
         birKereYazdir("aabbcccccddddaaa");
-        Q01_MethodCreation01.hesapMakinesi('+',2,4);
+        Q01_MethodCreation.hesapMakinesi('+',2,4);
     }
 
     private static void birKereYazdir(String str) {
