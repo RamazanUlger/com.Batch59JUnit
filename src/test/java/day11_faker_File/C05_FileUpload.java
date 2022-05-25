@@ -25,7 +25,7 @@ public class C05_FileUpload extends TestBase {
         // 2.adim yuklenecek doyanin dosya yolunu olusturalim
         //   biz masaustundeki text.txt dosyasini yukleyelim
         String farkliKisim=System.getProperty("user.home");
-        String ortakKisim= "\\Desktop\\text.txt";
+        String ortakKisim= "\\OneDrive\\Masaüstü\\berbertask.txt.txt";
         String yuklenecekDosya= farkliKisim+ortakKisim;
         // 3. adim sendKeys ile dosya yolunu, secme butonuna yollayalim
         dosyaSecButonu.sendKeys(yuklenecekDosya);
@@ -35,5 +35,6 @@ public class C05_FileUpload extends TestBase {
         WebElement yaziElementi= driver.findElement(By.tagName("h3"));
         Assert.assertTrue(yaziElementi.isDisplayed());
         Thread.sleep(5000);
+
     }
 }
